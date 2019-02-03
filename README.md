@@ -12,5 +12,33 @@ Bluetooth HC 05 : https://amzn.to/2TuSu0D
 
 Car Chessie and tyres :  you can get it from ofline online it will be really costly
 
+
+# Wiring Digram
+
+## Bluetooth - arduino 
+
+TX to rx 
+
+Rx to tx
+
+Ground to groumd
+
+3.3 V to 3.3 V
+
+
+## Motor driver  - arduino 
+
+Pin 1 to 9 
+
+Pin 2 to 10
+
+Pin 3 to 11
+
+Pin 4 to 12
+
+12 v to battery 
+
+Ground to batery Ground
+
 # video Demo
 [![](http://img.youtube.com/vi/cdf8Cy0FDx8/0.jpg)](http://www.youtube.com/watch?v=cdf8Cy0FDx8 "")

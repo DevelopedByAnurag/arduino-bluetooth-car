@@ -40,7 +40,7 @@ Pin 4 to 12
 
 Ground to batery Ground
 
-### app to use to control
+### App to use to control
 https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller
 
 # video Demo

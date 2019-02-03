@@ -1,6 +1,6 @@
 # Arduino Bluetooth Car
 
-Material required:
+### Material required:
 
 Ardrino uno : https://amzn.to/2HOy5T1
 
@@ -10,12 +10,12 @@ Motor driver :  https://amzn.to/2UE5mSl
 
 Bluetooth HC 05 : https://amzn.to/2TuSu0D
 
-Car Chessie and tyres :  you can get it from ofline online it will be really costly
+Car Chessie and tyres :  you can get it from offline online it will be really costly
 
 
-# Wiring Digram
+## Wiring Digram
 
-## Bluetooth - arduino 
+### Bluetooth - arduino 
 
 TX to rx 
 
@@ -26,7 +26,7 @@ Ground to groumd
 3.3 V to 3.3 V
 
 
-## Motor driver  - arduino 
+### Motor driver  - arduino 
 
 Pin 1 to 9 
 
@@ -39,6 +39,9 @@ Pin 4 to 12
 12 v to battery 
 
 Ground to batery Ground
+
+### app to use to control
+https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller
 
 # video Demo
 [![](http://img.youtube.com/vi/cdf8Cy0FDx8/0.jpg)](http://www.youtube.com/watch?v=cdf8Cy0FDx8 "")
